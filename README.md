@@ -1,6 +1,6 @@
 # **BouncyPackmen**
 <img src="images/PacMan1.png" width='150' />
-##Excercise on edge detection.
+## Excercise on edge detection.
 This project contains four images(two facing right and two facing left) of pacman that are switched to add motion to the element.
 The project initially starts with the placeholder image component. The images(facing right) are then switched every 200 milliseconds moving forward  by 20 pixel until the image reaches the right edge. At that point the images facing left are altered every 200 milliseconds by 20 pixel until it reaches the left end. The process will continue making the pacman bounce off the edges.
 
